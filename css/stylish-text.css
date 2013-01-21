@@ -1,0 +1,25 @@
+.stylish-text {
+	padding: .3em 0 .3em 1em;
+	}
+
+	.stylish-level-3,
+	.stylish-level-2,
+	.stylish-level-1 {
+		background: black;
+		color: white;
+		line-height: 1.4em;
+		padding: .3em 0;
+		position: relative;
+		}
+
+	.stylish-level-1 {
+		left: -1em;
+		}
+
+	.stylish-level-2 {
+		left: 1em;
+		}
+
+	.stylish-level-3 {
+		left: -.5em;
+		}
